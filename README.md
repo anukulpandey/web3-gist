@@ -1,4 +1,4 @@
-# SAGE GIST
+# Web3 Session GIST
 
 ## Prerequisites
 
