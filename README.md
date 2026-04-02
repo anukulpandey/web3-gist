@@ -120,6 +120,8 @@ anvil
   }
   ```
 
+  in constructor run like `["gaurav","anukul"]`
+
 - Download frontend
 
   ```
