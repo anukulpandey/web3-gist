@@ -24,6 +24,11 @@ anvil
 
 - Visit [Remix IDE](https://remix.ethereum.org/?nomobileredirect)
 
+- NETWORK DETAILS
+-    url: http://127.0.0.1:8545
+-    coin: PANEER
+-    network : Aman network
+
 - Paste this in a new file named `HelloWorld.sol`
 
   ```
