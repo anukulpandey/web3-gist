@@ -27,6 +27,7 @@ anvil
 - NETWORK DETAILS
 -    url: http://127.0.0.1:8545
 -    coin: PANEER
+-    chain id: 31337
 -    network : Aman network
 
 - Paste this in a new file named `HelloWorld.sol`
