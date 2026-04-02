@@ -10,7 +10,7 @@
 1. Foundry - [click me to download](https://getfoundry.sh/) - run this inside git bash
    Foundry comes with a tool called Anvil, which we will use to run a local blockchain network
 
-2. Metamask - [click me to download]([https://metamask.io/en-GB/download](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
+2. Metamask - [click me to download](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 
 ## Configuring local blockchain
 
